@@ -1,6 +1,6 @@
 # Real-Time Quality Validation for Streaming Data Using AI
 
-## Project Overview
+## Project Overview 
 
 **Real-Time Quality Validation for Streaming Data Using AI** is a project that leverages Artificial Intelligence (AI) techniques to validate the quality of streaming data in real time. In this project, we focus on **weather data streaming** as a use case, simulating real-time data collection for weather parameters such as temperature, humidity, and pressure from various sensors.
 
